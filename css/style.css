@@ -1,4 +1,10 @@
 .myh1{
   background-color: seagreen;
   color: whitesmoke;
+  width: 5opx;
+}
+body{
+  background-image: url(../img/cosmic\ bliss.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
