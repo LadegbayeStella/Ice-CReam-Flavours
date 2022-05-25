@@ -2,9 +2,16 @@
   background-color: seagreen;
   color: whitesmoke;
   width: 5opx;
+  text-shadow: bisque #000;
 }
 body{
-  background-image: url(../img/cosmic\ bliss.png);
+  background-image: url(../img/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__05__20140428-humpreyslocombe-primary-581430f71cf547fc9807ad06ed513b2f.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+#output{
+font-size: 35px;
+font-weight: bold;
+color: gold;
+
 }
